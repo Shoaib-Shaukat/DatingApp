@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OQdt8WkYJqAaMqFBy412Z4/un/xzqiWT1kMylOy1ooK0s0iLb2oJx1pn0RxB17hbSll8j2mpFlt3Mp+VCQghJg==",
+  "dgSpecHash": "qG684tlgN4wDvkgzpPq7F5M3HWoPj2osCC//z0UIuA6NOMjYGehCUSgRlr3yprQb9mcQpszYEPAkZqHJ48kSsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,9 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\microsoft.identitymodel.jsonwebtokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
@@ -38,7 +41,9 @@
     "C:\\Users\\HP\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\system.identitymodel.tokens.jwt.6.12.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
