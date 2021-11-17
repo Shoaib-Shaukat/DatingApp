@@ -53,7 +53,8 @@ namespace API.Controllers
             if (user == null)
                 return Unauthorized("Invalid Username");
 
-            var pass = await _context.Users.SingleOrDefaultAsync(x => x.PasswordHash == loginDto.Password);
+            //var pass = await _context.Users.SingleOrDefaultAsync(u => u.Id == user.Id);
+            var pass = await _context.Users.SingleOrDefaultAsync(x => x.PasswordHash == loginDto.Password && x.UserName == user.UserName);
             if (pass == null)
                 return Unauthorized("Invalid Password");
 
