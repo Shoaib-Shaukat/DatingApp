@@ -33,8 +33,10 @@ namespace API.Controllers
         public ActionResult<string> GetServerError()
         {
             var thing = _context.Users.Find(-1);
+            if (thing == null) return StatusCode(500);
+
             var thingToReturn = thing.ToString();
-            return thingToReturn;
+            return Ok(thingToReturn);
 
         }
         [HttpGet("bad-request")]
